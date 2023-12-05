@@ -38,7 +38,6 @@ p{
     
 }
 img{
-
     margin-left: 0px;
     max-width: 35px;
     padding: 10px;
@@ -73,7 +72,6 @@ h2{
     margin-left: 10px;
     margin-right: 10px;
     width: auto;
-    
 }
 form{
     font-family: gotham-light;
@@ -84,8 +82,6 @@ form{
     font-family: gotham-light;
     color: gray;
     margin-left: 10px;
-
-
 }
 .hora1{
     margin-top: -20px;
@@ -200,8 +196,4 @@ form{
 .texto{
     color: #ffffff;
     width: 100%;
-}
-.Botoes {
-    display: flex;
-    justify-content: space-evenly;
 }
