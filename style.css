@@ -201,3 +201,7 @@ form{
     color: #ffffff;
     width: 100%;
 }
+.Botoes {
+    display: flex;
+    justify-content: space-evenly;
+}
